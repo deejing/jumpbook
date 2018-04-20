@@ -1,0 +1,15 @@
+$colorText: #606060;
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font: 16px/140% Roboto, Helvetica, Arial, 'Sans-Serif';
+    color: $colorText;
+}
