@@ -9,6 +9,8 @@
   "dependencies": {
     "@mdi/font": "^2.2.43",
     "@zeit/next-sass": "^0.1.2",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
     "material-ui": "^1.0.0-beta.38",
     "material-ui-icons": "^1.0.0-beta.36",
     "next": "^5.1.0",
